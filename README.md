@@ -1,4 +1,5 @@
 # model-repository
+for checking first time i used github to create the ssh key in vs code!git 
 some demo!
 this repository is for learning purpose i created it .(github)
 
