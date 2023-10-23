@@ -1,7 +1,5 @@
 # model-repository
-for checking first time i used github to create the ssh key in vs code!git 
-some demo!
-this repository is for learning purpose i created it .(github)
+no demo here
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
